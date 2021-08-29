@@ -1,0 +1,46 @@
+Welcome to Credential Creation Service !! 
+Enter Employee first name
+Sophia
+
+Enter Employee last name
+Solomon
+
+Please Enter the department from the following
+-->Technical
+-->Admin
+-->Human Resources
+-->Legal
+Enter full name of department
+admin
+
+Dear Sophia,
+Your credentails are as follows:
+Email -->  sophiasolomon@admin.company.com
+Password -->  IXM3rT#D
+
+
+Do you want to continue for next employee(yes/no)
+yes
+Enter Employee first name
+Jenisha
+
+Enter Employee last name
+Shirley
+
+Please Enter the department from the following
+-->Technical
+-->Admin
+-->Human Resources
+-->Legal
+Enter full name of department
+humanresources
+
+Dear Jenisha,
+Your credentails are as follows:
+Email -->  jenishashirley@humanresources.company.com
+Password -->  SXDn72Yt
+
+
+Do you want to continue for next employee(yes/no)
+no
+Thank you for using the service !!! 
